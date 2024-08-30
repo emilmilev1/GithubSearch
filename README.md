@@ -6,9 +6,7 @@ GithubAPI search users and details view
 
 There is a solution for two devices: Android and IOS
 Built in 4 ways:
-- Android -> xmls
-          -> Compose
-- Swift -> UIKit and storyboards
-        -> SwiftUI
+- Android -> 1.xmls and 2.Compose
+- Swift -> 3.UIKit/Storyboards and 4.SwiftUI
 
 There are Unit tests for all behaviors.
