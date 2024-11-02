@@ -1,12 +1,23 @@
-# github_search
-GithubAPI search users and details view
+# GithubSearch
+A project utilizing the GitHub API to search for users and view detailed profiles.
 
-# To be done
---- In a couple of days the completed project will be either added here or forked from the original storage of the project ---
+---
 
-There is a solution for two devices: Android and IOS
-Built in 4 ways:
-- Android -> 1.xmls and 2.Compose
-- Swift -> 3.UIKit/Storyboards and 4.SwiftUI
+### Upcoming Updates
+The completed project will be uploaded in the coming days.
 
-There are Unit tests for all behaviors.
+---
+
+### Platform Solutions
+This project is developed for both **Android** and **iOS** platforms, with dedicated versions written in **Kotlin** for Android and **Swift** for iOS.
+
+#### Android
+- **XML Layouts**
+- **Jetpack Compose**
+
+#### iOS
+- **UIKit / Storyboards**
+- **SwiftUI**
+
+### Testing
+Comprehensive unit tests are included for all functionalities across both Android and iOS implementations, covering all major behaviors in the four project versions.
